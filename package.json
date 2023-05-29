@@ -1,0 +1,23 @@
+{
+  "name": "serverless-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelendrareddy9001/serverless-function-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelendrareddy9001/serverless-function-cli/issues"
+  },
+  "homepage": "https://github.com/neelendrareddy9001/serverless-function-cli#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
